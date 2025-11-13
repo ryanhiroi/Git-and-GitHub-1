@@ -8,4 +8,3 @@
 
 ### Kinda long so I find a better way at my repository "git and github 2".
 
-Testing.
